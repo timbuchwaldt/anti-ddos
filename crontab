@@ -1,0 +1,2 @@
+*       *       *       *       *       /sbin/pfctl -t abusers -Te 60
+*       *       *       *       *       /sbin/pfctl -t uberabusers -Te 360
